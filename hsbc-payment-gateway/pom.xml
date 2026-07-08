@@ -60,7 +60,7 @@
     </snapshotRepository>
     <repository>
       <id>nexusdeploymentrepo</id>
-      <url>http://52.23.234.3:8081/repository/hsbc-payment-gateway-releases-repo/</url>
+      <url>http://52.23.234.3:8081/repository/hsbc-payment-gateway-release-repo/</url>
     </repository>
   </distributionManagement>
 
